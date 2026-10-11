@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/pep789-testsuite/commit/5f0c7df0cad1cc902a85d8941c07ad265c1ed639",
       "git:hexsha": "5f0c7df0cad1cc902a85d8941c07ad265c1ed639",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

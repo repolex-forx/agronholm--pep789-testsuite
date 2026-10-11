@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "pep789-testsuite",
+  "versions": [
+    {
+      "commit": "5f0c7df0cad1cc902a85d8941c07ad265c1ed639",
+      "parsed_at": "2026-10-11T08:33:08.417398+00:00",
+      "filetree": "filetree/5f0c7df0cad1cc902a85d8941c07ad265c1ed639.nq.gz",
+      "blobs": [
+        "blob/ee7984dc65ec772e945c26250ec43f1e53762c59.nq.gz",
+        "blob/33218ca9bba566a28d54167a996fcee5e45f15d8.nq.gz",
+        "blob/bfd81e997166efef9edd5d8b7d9d140ca8f5d8b1.nq.gz",
+        "blob/39c8c17a3320742eefb6559894502920acd20a7a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
